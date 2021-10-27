@@ -1,4 +1,4 @@
-59. Write a C program to count total number of duplicate elements in an array.
+59. Write a program to count total number of duplicate elements in an array.
 import java.util.Scanner;
 public class example59 {
 	public static void main(String[] args) {
