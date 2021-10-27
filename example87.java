@@ -1,3 +1,4 @@
+87. WAP to print all perfect numbers between given interval using functions.
 import java.util.Scanner;
 public class example87 {
 	public static void main(String[] args) {
