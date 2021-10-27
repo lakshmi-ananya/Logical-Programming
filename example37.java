@@ -1,3 +1,4 @@
+37. Write a java program to find all factors of a number.
 import java.util.Scanner;
 public class example37 {
 	public static void main(String[] args) {
