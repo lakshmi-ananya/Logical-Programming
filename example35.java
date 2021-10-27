@@ -1,3 +1,4 @@
+35. Write a java program to print all ASCII character with their values.
 //import java.util.Scanner;
 public class example35 {
 	public static void main(String[] args) {
