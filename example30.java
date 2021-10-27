@@ -1,3 +1,4 @@
+30. Write a java program to calculate sum of digits of a number.
 import java.util.Scanner;
 public class example30 {
 	public static void main(String[] args) {
