@@ -1,3 +1,4 @@
+38. Write a java program to calculate factorial of a number.
 import java.util.Scanner;
 public class example38 {
 	public static void main(String[] args) {
