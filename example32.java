@@ -1,3 +1,4 @@
+32. Write a java program to enter a number and print its reverse.
 import java.util.Scanner;
 public class example32 {
 	public static void main(String[] args) {
