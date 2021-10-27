@@ -1,3 +1,4 @@
+57. Write a C program to count frequency of each element in an array.
 import java.util.Scanner;
 public class example57 {
 	public static void main(String[] args) {
