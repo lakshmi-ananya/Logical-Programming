@@ -1,3 +1,4 @@
+34. Write a java program to enter a number and print it in words
 import java.util.Scanner;
 public class example34 {
 	public static void main(String[] args) {
