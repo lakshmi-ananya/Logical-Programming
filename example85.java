@@ -1,3 +1,4 @@
+85. WAP to print all strong numbers between given interval using functions.
 import java.util.Scanner;
 public class example85 {
 	public static void main(String[] args) {
