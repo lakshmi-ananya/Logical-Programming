@@ -1,3 +1,4 @@
+29. Write a java program to check whether a number is palindrome or not.
 import java.util.Scanner;
 public class example29 {
 	public static void main(String[] args) {
